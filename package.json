@@ -1,10 +1,24 @@
 {
   "name": "ngx-dynamic-tabindex",
   "version": "1.0.0",
-  "author": "Igor Jarko",
+  "author": "Igor Jarko (Ihor Zharko)",
   "repository": {
-    "directory": ""
+    "type": "git",
+    "url": "https://github.com/jarcko/NgxDynamicTabindex"
   },
+  "bugs": {
+    "url": "https://github.com/jarcko/NgxDynamicTabindex/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "typescript",
+    "directive",
+    "tabindex",
+    "dynamic",
+    "roving",
+    "ngx"
+  ],
   "peerDependencies": {
     "@angular/common": "x5.0.0",
     "@angular/core": "x5.0.0"
