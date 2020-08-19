@@ -61,15 +61,3 @@ Result html will look like this:
 ```
 
 Works with AngularMaterial.
-
-## Build
-
-Run `ng build NgxDynamicTabindex` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Publishing
-
-After building your library with `ng build NgxDynamicTabindex`, go to the dist folder `cd dist/ngx-dynamic-tabindex` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test NgxDynamicTabindex` to execute the unit tests via [Karma](https://karma-runner.github.io).
