@@ -1,0 +1,15 @@
+{
+  "name": "ngx-dynamic-tabindex",
+  "version": "1.0.0",
+  "author": "Igor Jarko",
+  "repository": {
+    "directory": ""
+  },
+  "peerDependencies": {
+    "@angular/common": "x5.0.0",
+    "@angular/core": "x5.0.0"
+  },
+  "dependencies": {
+    "tslib": "x1.13.0"
+  }
+}
